@@ -24,7 +24,7 @@
 ### Notes About Branching
 - branching allows you to push to a seperate branch off the main for a safer pushing flow
 - it helps when mulitple people are working on a project to help prevent main branch from breaking
-
+- Delete - git branch -d "branch-name"
 
 ### Branching vocabulary
 - branch - additional branch to push to to prevent corupting main with broken code
@@ -36,3 +36,5 @@
 - $ `git add` + file name
 - $ `git commit -m` + message
 - $ `git push origin` + branch
+- $ `git checkout` + branch name
+- $ `git branch -d` + brach name
