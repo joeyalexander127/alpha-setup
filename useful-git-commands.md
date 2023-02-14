@@ -8,6 +8,7 @@
 - git add file-name
 - git commit -m "message"
 - git push origin main
+- git check out -b name-of-branch (creates a new branch)
 
 ### Vocabulary
 - repository (repo) - a named folder on github
