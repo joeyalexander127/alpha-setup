@@ -31,3 +31,8 @@
 - main - main is the branch that we push to once we a certain that the code is working properly
 - checkout - is the command we use to navigate between branches
 - checkout -b - creates a new branch and jumps into it
+
+### Code Syntax for MD
+- $ `git add` + file name
+- $ `git commit -m` + message
+- $ `git push origin` + branch
