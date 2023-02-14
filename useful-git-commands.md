@@ -24,3 +24,10 @@
 ### Notes About Branching
 - branching allows you to push to a seperate branch off the main for a safer pushing flow
 - it helps when mulitple people are working on a project to help prevent main branch from breaking
+
+
+### Branching vocabulary
+- branch - additional branch to push to to prevent corupting main with broken code
+- main - main is the branch that we push to once we a certain that the code is working properly
+- checkout - is the command we use to navigate between branches
+- checkout -b - creates a new branch and jumps into it
