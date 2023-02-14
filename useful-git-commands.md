@@ -17,3 +17,5 @@
 - commit - committing changed files for what you are pushing to GitHub
 - push - pushing your committed changes onto your GitHub repo
 - diff - difference between your local and GitHub repo
+- markdown (md) - a text file that allows us to format our text
+- git add - adds our changed files for a commit
