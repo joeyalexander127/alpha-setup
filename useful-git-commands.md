@@ -20,3 +20,7 @@
 - diff - difference between your local and GitHub repo
 - markdown (md) - a text file that allows us to format our text
 - git add - adds our changed files for a commit
+
+### Notes About Branching
+- branching allows you to push to a seperate branch off the main for a safer pushing flow
+- it helps when mulitple people are working on a project to help prevent main branch from breaking
