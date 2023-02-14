@@ -8,3 +8,12 @@
 - git add file-name
 - git commit -m "message"
 - git push origin main
+
+### Vocabulary
+- repository (repo) - a named folder on github
+- git - version control software
+- GitHub - online playform for git, GUI for sharing code and collaboration
+- local - your personal computer
+- commit - committing changed files for what you are pushing to GitHub
+- push - pushing your committed changes onto your GitHub repo
+- diff - difference between your local and GitHub repo
